@@ -25,5 +25,5 @@ Python 3.12 | Django 5.2 | SQLite | HTML5/CSS3
 
 ![Connexion](screenshots/connexion.PNG)
 ![Liste des médicaments](screenshots/Médicaments.PNG)
-![Gestion des commandes](screenshots/commandes.PNG)
+![Gestion des commandes](screenshots/commandeS.PNG)
 
