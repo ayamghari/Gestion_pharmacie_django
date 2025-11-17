@@ -1,6 +1,6 @@
 # Système de Gestion de Distribution  des médicaments
 
-![Page d'accueil](screenshots/accueil.png)
+![Page d'accueil](screenshots/accueil.PNG)
 
 Application web Django pour gérer les opérations d'un distributeur  des médicaments
 
@@ -22,7 +22,7 @@ Python 3.12 | Django 5.2 | SQLite | HTML5/CSS3
 
 ## Captures d'écran
 
-![Connexion](screenshots/connexion.png)
-![Liste des médicaments](screenshots/Médicaments.png)
-![Gestion des commandes](screenshots/commandes.png)
+![Connexion](screenshots/connexion.PNG)
+![Liste des médicaments](screenshots/Médicaments.PNG)
+![Gestion des commandes](screenshots/commande.PNG)
 
